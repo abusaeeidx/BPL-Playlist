@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-26 15:52:58 (BD)
+# Last Updated Time : 2025-12-26 15:58:42 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
@@ -15,17 +15,19 @@ https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=E2UTkwMwpRzNEuIoyF4Dww&e
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=5Qnue2sYBhENKt1tRR8MEw&expires=1766749432
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1766748613&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=2e93fe774c11c26df7c086540b4ce966
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1766749567&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4c9beb4787e16e263f85e6ef0c8d33aa
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1766748613&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=0f15a22b0504706b41d7959367bb0617
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1766749568&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4e2494318b2327e07de6111e31281d94
 #EXTINF:-1 tvg-id="862bc1f4-6430-4198-87c5-fa040776c1c7" tvg-name="Persiana Sports" tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Football",T Sports HD
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766748837&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=f8ae7c3348066c0a800d61682f614655
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766749787&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4da4063ca9af2a0da26f1bc7350e10c9
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=b4bf0475a1a4af15b47a2ac8383fc357a54b0124-0fa823ad0f15de173fed5646dc79d422-1766750023-1766739223
+#EXTINF:-1 tvg-name="T Sports (720p)" group-title="Unknown",T Sports (720p)
+https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports  üì∫" group-title="Cricket üèè",Willow Sports  üì∫
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="Unknown",A Sports
