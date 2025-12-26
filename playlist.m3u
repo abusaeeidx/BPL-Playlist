@@ -7,3 +7,9 @@ https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",willow AQ
 https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbzaoosyge/out/v1/0764d44679e04da6b3e6851763f83e4d/cenc.mpd|drmScheme=clearkey&drmLicense=746a072bc05d85f1a696bf3bbee4e828:c94139000272b0a41af086da32e7fde7
+
+#EXTINF:-1 tvg-name="OTTE Live" tvg-logo="" group-title="DRM", Willow AQ
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=746a072bc05d85f1a696bf3bbee4e828:c94139000272b0a41af086da32e7fde7
+https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbzaoosyge/out/v1/0764d44679e04da6b3e6851763f83e4d/cenc.mpd
