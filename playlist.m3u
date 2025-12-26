@@ -1,14 +1,14 @@
 #EXTM3U
-# Last Updated Time : 2025-12-26 19:18:38 (BD)
+# Last Updated Time : 2025-12-26 19:24:12 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1 tvg-name="OTTE Live" tvg-logo="" group-title="DRM", Willow AQ
+#EXTINF:-1 tvg-name="OTTE Live" tvg-logo="" group-title="DRM",Willow AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=746a072bc05d85f1a696bf3bbee4e828:c94139000272b0a41af086da32e7fde7
 https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbzaoosyge/out/v1/0764d44679e04da6b3e6851763f83e4d/cenc.mpd
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138916_5808_SYL_DBR_fc-web_1766733054236.jpg" group-title="Live Event", Sylhet Titans vs Rajshahi Warriors (Bangladesh Premier League- 2025-26)
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138916_5808_SYL_DBR_fc-web_1766733054236.jpg" group-title="Live Event", Sylhet Titans vs Rajshahi Warriors (Bangladesh Premier League- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
@@ -36,7 +36,7 @@ https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766760407&u=ef3dd85c-c300-4
 https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=042e7aafe11829e3112645963406f62050c3c8fd-a5ef5bd1165c91530632b1436c75bc23-1766764415-1766753615
 #EXTINF:-1 tvg-name="T Sports (720p)" group-title="Unknown",T Sports (720p)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
-#EXTINF:-1 tvg-name="Willow Sports  üì∫" group-title="Cricket üèè",Willow Sports  üì∫
+#EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="A Sports" group-title="Unknown",A Sports
 https://tvsen6.aynaott.com/asports/index.m3u8
