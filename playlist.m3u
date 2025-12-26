@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-26 16:21:52 (BD)
+# Last Updated Time : 2025-12-26 16:42:17 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
@@ -11,25 +11,29 @@ https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbzaoosyge/o
 #EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138916_5808_SYL_DBR_fc-web_1766733054236.jpg" group-title="Live Event", Sylhet Titans vs Rajshahi Warriors (Bangladesh Premier League- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
-https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=E2UTkwMwpRzNEuIoyF4Dww&expires=1766749432
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=_vhamuquY_TJyzC3ouQziQ&expires=1766751703
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
-https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=5Qnue2sYBhENKt1tRR8MEw&expires=1766749432
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=1OlrFzMSSqE1DNsEYJLPfg&expires=1766751703
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=XXPEMgPQwHvltdvqLD2BtA&expires=1766751704
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 #EXTINF:-1 tvg-id="a3d48c46-7902-45e2-abf9-0fab60c4d117" tvg-name="A sports" tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1766749567&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4c9beb4787e16e263f85e6ef0c8d33aa
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1766751411&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=b55b5842317f382acf7ceea4d67f5ab1
 #EXTINF:-1 tvg-id="abfabaee-3898-4279-8645-3da5b0232867" tvg-name="Willow TV" tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1766749568&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4e2494318b2327e07de6111e31281d94
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1766751412&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=ba6a69413bb4f6e96f809e291118a76a
 #EXTINF:-1 tvg-id="862bc1f4-6430-4198-87c5-fa040776c1c7" tvg-name="Persiana Sports" tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-id="1a9b1673-3098-4451-ac14-28ab9c3b2a3b" tvg-name="Rta sports" tvg-logo="https://s3.aynaott.com/storage/ce9f61273938b15fd5372f1071ecfec5" group-title="Sports",Rta sports
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
 #EXTINF:-1 tvg-id="fc95d30e-5323-4c12-bb38-7a1e3f04acc2" tvg-name="T Sports HD" tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Football",T Sports HD
-https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766749787&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=4da4063ca9af2a0da26f1bc7350e10c9
+https://tvsen7.aynascope.net/tsportshd/index.m3u8?e=1766751636&u=ef3dd85c-c300-4e09-b2f1-9138aec7211b&token=7933999d58a64f0c077cb75662b5a957
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=b4bf0475a1a4af15b47a2ac8383fc357a54b0124-0fa823ad0f15de173fed5646dc79d422-1766750023-1766739223
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=54dfbae1477e3037681db2a7083cb554fbe057b1-249efe25fe4b43a08014cf9c4a52c01a-1766754653-1766743853
 #EXTINF:-1 tvg-name="T Sports (720p)" group-title="Unknown",T Sports (720p)
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports  üì∫" group-title="Cricket üèè",Willow Sports  üì∫
