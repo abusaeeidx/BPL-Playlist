@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-26 20:14:29 (BD)
+# Last Updated Time : 2025-12-26 20:17:26 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -9,8 +9,8 @@ https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-name="OTTE Live" tvg-logo="" group-title="DRM",Willow AQ
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=746a072bc05d85f1a696bf3bbee4e828:c94139000272b0a41af086da32e7fde7
-https://otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/lbzaoosyge/out/v1/0764d44679e04da6b3e6851763f83e4d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e6c657cf59c36f050d3c065a05415118:00abdaaafb9cae9efbb7f5ec53841c3f
+https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhuhr4rfjk/out/v1/897cf67b309b4fe1ae5441e401bece4c/cenc.mpd
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138917_5808_NOE_CCH_fc-web_1766733054113.jpg" group-title="Live Event", Chattogram Royals vs Noakhali Express (Bangladesh Premier League- 2025-26)
 https://bd-mc-fdlive.fancode.com/mumbai/138917_english_hls_2ab30a2fb843502_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
