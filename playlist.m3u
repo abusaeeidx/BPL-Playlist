@@ -1,1 +1,6 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Fancode.id" tvg-name="Fancode" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTASTSkiatBdHKk7rijo9j9w-AuEsLqZHRB786pDoQtEA&s=10" group-title="BPL",Fancode
+https://bd-mc-fdlive.fancode.com/mumbai/138916_english_hls_03f63abe0162196_1ta-di_h264/index.m3u8
 
+#EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
+https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
