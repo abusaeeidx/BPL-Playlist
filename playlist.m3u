@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-27 03:13:40 (BD)
+# Last Updated Time : 2025-12-27 03:30:07 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -16,13 +16,17 @@ https://bd-mc-fdlive.fancode.com/mumbai/138348_english_hls_e876e8998417453_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=WNxnBDTivD7e0XgH0Zli8Q&expires=1766788930
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=rpfZP-THTHFyHQrOnV9cmA&expires=1766791088
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=drbg-XavfOhkiqdOXYrHHg&expires=1766791088
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=-jKJ_ZfVgcY6inVEcIjkLA&expires=1766788930
+https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=c2XrW7voYyVLxT0DVFLvaA&expires=1766791088
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=aaac4529a05e93ec4bd9c36c4d3fae846a403e1a-55a4560a9e2dda1fd4ad91661d636bc7-1766785377-1766781777
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=c9ea5bcdf3b523c8a53e97584ce9fa7f17d0d23d-9c13d6cd4ae88097bf98dc9fbd7b67a6-1766786189-1766782589
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
 https://tvsen6.aynaott.com/asports/index.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
