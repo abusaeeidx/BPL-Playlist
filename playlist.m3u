@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-27 09:23:15 (BD)
+# Last Updated Time : 2025-12-27 10:05:20 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,18 +17,20 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138764_5801_CH-W_WB-W_fc-web_1766596522063.jpg" group-title="Live Event", Wellington Blaze vs Central Hinds (Women's Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138764_english_hls_47a1911cdc87207_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=WEdSHAJh5-y_vrmYeKcJTg&expires=1766806795
+https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=Lxq_SF2DoqHtU6ywoIB8Jg&expires=1766812986
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=uKVdjGJLFd3djGNQl3ksfA&expires=1766806795
+https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=Xnis3OQin09v0UIBFsUHnA&expires=1766812986
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=4MSsXcF3XuH0E5fn_yYPIg&expires=1766812986
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=83cfad81845734788398f1b4e5cacfbafccd3991-d0ece6106b958bdd40a9ccaa301b399a-1766805446-1766801846
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=675b33136ccb1b4f6476890d7f3975e748a26ad4-d19bcf9120c64afd27386ec8dc1e5ab4-1766810426-1766806826
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
