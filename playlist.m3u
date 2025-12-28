@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-28 23:15:32 (BD)
+# Last Updated Time : 2025-12-28 23:32:55 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -22,15 +22,15 @@ https://bd-mc-fdlive.fancode.com/mumbai/138652_english_hls_184b19809a71672_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=tJgy4gif7K0xHbp7HgO0fQ&expires=1766947657
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=iHIpqliBOC3x8g0BndJD0w&expires=1766949470
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=5thbWgUjp1YabPfxnM_EDQ&expires=1766947657
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=PixbkT9kXPd1Ke4kx1tN8Q&expires=1766949470
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=0zNtQW6FFHDVJVbm_3k9Tw&expires=1766947657
+https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=wFezXoG_IAABdb-O32eqhw&expires=1766949470
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=851c0b4cd5f0e066f8e9af1e615a5a8229a1db42-76985c785619eeae9383eca4977959a0-1766944334-1766940734
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
