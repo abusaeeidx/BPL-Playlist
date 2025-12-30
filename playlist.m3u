@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-30 09:43:05 (BD)
+# Last Updated Time : 2025-12-30 10:25:47 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,18 +17,22 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138767_5801_OS-W_CH-W_fc-web_1766596522209.jpg" group-title="Live Event", Central Hinds vs Otago Sparks (Women's Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138767_english_hls_843d7c911b99616_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138735_5800_OV_CS_fc-web_1766641250982.jpg" group-title="Live Event", Otago Volts vs Central Stags (Super Smash- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138735_english_hls_5368e9832344607_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=5y5Ph-Jwv6Faxrokc6bllQ&expires=1767066176
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=70rEYAmCyF7G3gFK1zvb2A&expires=1767072450
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=Wjq6KT9UCfbd9d6alOVh1w&expires=1767072451
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=Ls6hDJY37WWHfShrq25X3g&expires=1767066176
+https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=hcOsqvfUZq7tQiw3E_2L5Q&expires=1767072451
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=962f7d5ea65f96da0de76af33bdf9f8ea05b7ff3-2d1cfbc3c83196f0a858474f4879816c-1767066389-1767062789
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=fd0ab49fa047d13b2b32eed153e66e25c8d5a3bb-77b8c243d3f9d5467eecd22b7c882886-1767070450-1767066850
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
