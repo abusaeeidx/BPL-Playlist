@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-31 05:51:07 (BD)
+# Last Updated Time : 2025-12-31 05:57:58 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,6 +17,8 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138768_5801_NB-W_WB-W_fc-web_1766596522206.jpg" group-title="Live Event", Wellington Blaze vs Northern Brave Women (Women's Super Smash- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138768_english_hls_f99766388d56514_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
