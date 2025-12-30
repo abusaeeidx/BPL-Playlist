@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2025-12-31 00:31:54 (BD)
+# Last Updated Time : 2025-12-31 00:55:13 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,22 +17,22 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138646_5786_DV_MIE_FC-Web.jpg" group-title="Live Event", Desert Vipers vs MI Emirates (DP World ILT20 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138653_english_hls_ef8f33f54e54252_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138443_5655_ETT_ANF_fc-web.png" group-title="Live Event", Al-Ettifaq vs Al-Nassr FC (Roshn Saudi League 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/138443_english_hls_f36949a12359053_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=zvW9ZsvqskgFvNaak26OfA&expires=1767123874
+https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=63wPGIQQ0lrTbTfpzeY8VA&expires=1767126698
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=H4HYuDHOsZQV4qCqeutgSw&expires=1767123874
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=I5UNFh9GM3BRjPaGMOq5Ug&expires=1767126698
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=mY_V-iRUMTm-H0eZ9MSBXg&expires=1767123874
+https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=T1olddRG29GQ1wEELfjWxA&expires=1767126698
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=2729847f214d624778e770aff5ee31814239727b-b3d46eebea68199fd15fc46418e4e472-1767120781-1767117181
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=531fdf165e22df074dc7f9299874ac65c28cc950-7a2a88b92b6debd28bd08e8110a6c7b3-1767123515-1767119915
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
