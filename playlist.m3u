@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-01 12:38:57 (BD)
+# Last Updated Time : 2026-01-01 12:59:43 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -22,13 +22,13 @@ https://bd-mc-fdlive.fancode.com/mumbai/138737_english_hls_bb09d5de5079575_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=gns--0mT5SW1F88PytLEBw&expires=1767253807
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=1qPKHYMTHtCAHGUDD-_6Qg&expires=1767256413
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=GN_TKRI_I95Zod04xbp2ZA&expires=1767253807
+https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=0fvu_UngatclXHy-2Jb_-A&expires=1767256414
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=61b465075062a8d29df83f257a49aa28795e3922-e6e432e6b6a0cbe876413961a1c088e2-1767250607-1767247007
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=423f763541e36c2851dd0b9e7398d4fdc67ce581-f062a4a6e9fc14b21665e2bf340552f9-1767253575-1767249975
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
