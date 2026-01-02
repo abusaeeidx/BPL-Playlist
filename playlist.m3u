@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-03 03:52:49 (BD)
+# Last Updated Time : 2026-01-03 03:59:26 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -32,7 +32,7 @@ https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=DwBLiRDs37oy_A1Xj1EDAA
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=JkzDVdYUHpvW9_pfg1hyYw&expires=1767397131
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=402c51c6c4bbd5b83bb18e2ae34cb2b0f1e576aa-f9ba2d549de7b92951bf4c673e911404-1767393392-1767389792
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=14776410bb65a93a220ae49327b8d2c6352f4779-e9cbb2a069348eef515b43d143ce4417-1767394191-1767390591
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
