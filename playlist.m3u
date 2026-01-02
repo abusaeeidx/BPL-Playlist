@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-02 19:41:33 (BD)
+# Last Updated Time : 2026-01-02 19:53:50 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,22 +17,22 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-League_FC-Web.jpg" group-title="Live Event", Majees Titans vs Renaissance Challengers (Oman D20 League- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139160_english_hls_72995e4f2798476_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138927_5808_SYL_RAN_fc-web_1766733054374.jpg" group-title="Live Event", Sylhet Titans vs Rangpur Riders (Bangladesh Premier League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138927_english_hls_2ad2b01ca384942_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=b98EqNOmJCBsGfSPsSqp0A&expires=1767364873
+https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=d87GDGOqVOub604omDpyUw&expires=1767367946
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=vfZjhRpKYK72-wyeFaWmiA&expires=1767364873
+https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=_htEo_aV8Lzd-QW6YYluLA&expires=1767367946
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=BHwIfCZ388bbkZz7q-TncQ&expires=1767364873
+https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=25VLQZIp0j7m2D5cIZLTTA&expires=1767367946
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=e579fbef09829c7fcea1f29c1ad36f26a5d6f18b-b16ce056de5ae8273fcd1dd653094e63-1767362229-1767358629
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=a56021e15918a930bda50b838c35293717eb4f89-b44965bcfcc720601bc6976da014184d-1767364719-1767361119
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="FAST SPORTS" group-title="Unknown",FAST SPORTS
