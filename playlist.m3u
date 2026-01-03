@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-03 16:21:03 (BD)
+# Last Updated Time : 2026-01-03 16:40:29 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,26 +17,26 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138817_5802_MLC_SYD_fc-web.jpg" group-title="Live Event", Melbourne City vs Sydney FC (A League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138817_english_hls_ed6c5c3dee23255_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Oman-D20-Womens_Exhibition-match-FC-Web.jpg" group-title="Live Event", Oman Women's Red vs Oman Women's Blue (Oman D20 League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139295_english_hls_6203f5261a30960_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=Szn99XIN7bng26HgPWYIMQ&expires=1767440472
+https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=Xtiz1JVfeDHcHL_bh_2E1g&expires=1767442823
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=nJmlC8iwP3CjgX1wNmxtbw&expires=1767440472
+https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=khGTo2enZUIsDp6Io1aVrw&expires=1767442823
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=j3HdwFfWhRKqR-UAXhyYTg&expires=1767440473
+https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=FWIArRnSJ4apeFvC-Ijk0A&expires=1767442824
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=3bc173b48dd987a0090be2e697d4254cca2f17d2-5bb452eb98ff8a31f86819855bcb3910-1767437056-1767433456
-#EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
-http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=72be06ee3c6f4530c90d9915db1f3862c642a946-94c7aa9cd5d391de4e044177f1f56a01-1767437827-1767434227
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
 http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
