@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-05 03:32:39 (BD)
+# Last Updated Time : 2026-01-05 03:43:35 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,18 +17,22 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/South-Africa-vs-Cameroon_fc-web.jpg" group-title="Live Event", South Africa vs Cameroon (Africa Cup of Nations 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138383_english_hls_1c86ed249198186_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131001_5427_RS_ATL_fc-web.png" group-title="Live Event", Real Sociedad vs Atletico de Madrid (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131001_english_hls_61a5b6264b76453_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=FPbkiP8kR3S6urAU0GOcUw&expires=1767568696
+https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=oodup3UsB9OXrYpNflrcAA&expires=1767569989
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=eAsRwdIIuSGc70DIr4T3yw&expires=1767569989
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=OrNh1uSG6KqmAa4KPNkVcw&expires=1767568697
+https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=8JTrnOhHuQbMQ1VjvC3gdw&expires=1767569989
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=059967031b3f1bb02620c1bcce71ccec1d9d6568-73a919669ca9d7a496723c0b0e3ffdb0-1767563873-1767560273
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=888065862e80c2e6cfa22c49029b3fd51796ca58-c737fca04d1909fb72a6310310513a34-1767565570-1767561970
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
