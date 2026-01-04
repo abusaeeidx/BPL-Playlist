@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-05 01:52:26 (BD)
+# Last Updated Time : 2026-01-05 01:59:10 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -32,7 +32,7 @@ https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=tBYLTeEDsM2WwTRWK1fMb
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=LDvcz_B0SHmEJnMSzIEqKA&expires=1767562649
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=eb27dbcafb510652bb76b5c753783c057f4c601f-b1da787db5c6151b52bf20c1e597bca0-1767559095-1767555495
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=af2ae615719c252ed463a94dd3e42d94d51c4973-58a840a6ed7e1b442bc80c219446aa01-1767559905-1767556305
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
