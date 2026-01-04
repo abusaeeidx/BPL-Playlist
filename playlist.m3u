@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-05 03:18:01 (BD)
+# Last Updated Time : 2026-01-05 03:32:39 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -22,13 +22,13 @@ https://bd-mc-fdlive.fancode.com/mumbai/138383_english_hls_1c86ed249198186_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=SSFNqVoEZbRjf8RxPYbz2g&expires=1767566626
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=FPbkiP8kR3S6urAU0GOcUw&expires=1767568696
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=6yvc8PYE0oUVdpvv_h1v_w&expires=1767566626
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=OrNh1uSG6KqmAa4KPNkVcw&expires=1767568697
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=23d03d4f508cda6725d38676ac1d912b880e66d4-0256fb1481b79cce4ac4416b9a180872-1767563079-1767559479
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=059967031b3f1bb02620c1bcce71ccec1d9d6568-73a919669ca9d7a496723c0b0e3ffdb0-1767563873-1767560273
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
