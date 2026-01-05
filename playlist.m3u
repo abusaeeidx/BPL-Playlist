@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-06 00:53:37 (BD)
+# Last Updated Time : 2026-01-06 01:11:42 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,8 +17,8 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Egypt-vs-Benin_fc-web.jpg" group-title="Live Event", Egypt vs Benin (Africa Cup of Nations 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138381_english_hls_0777ec1e3575216_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Mozambique_fc-web.jpg" group-title="Live Event", Nigeria vs Mozambique (Africa Cup of Nations 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138386_english_hls_bb262e69c947373_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -32,9 +32,11 @@ https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=7q1DYlSs0M8dcLXoIt_skA
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=p7b1LSHKDGaSdKtbJeZs9Q&expires=1767645161
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=447bf5bdd414b62b19799fbc6e094c04dcd7193b-38e7a32a1b78a39758f518d927c59f4a-1767641785-1767638185
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=7bd3bf05e6dc150c074dd2925ae3e27f56234c05-dcd9dfbd16c454d68531095857e1673b-1767643172-1767639572
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
+#EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
+http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
@@ -52,7 +54,5 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 http://172.20.3.1:81/NagorikTVHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 ,A SPORTS
-http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 ,Willow Cricket
 https://fl1.moveonjoy.com/WILLOW_CRICKET/index.m3u8
