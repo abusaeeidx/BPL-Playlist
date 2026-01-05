@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-05 17:59:23 (BD)
+# Last Updated Time : 2026-01-05 18:51:32 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -31,8 +31,16 @@ https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=nd90g9-d50i0OpZWShkrDw
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=vf_EpLvzMbJTAb5MvMK7NQ&expires=1767620492
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767623581&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=357f2a072af78f8525a136bf02acde4e
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767623618&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2b1dc4f36e445fc2c7fd9b6d62f6be4a
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767623624&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b34dd4ab1c394b9dcc941043aefe771b
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=a6020fb8d517f693c9112c7042d1c22e10ee90a5-a358b88191e64f4aeb89fec0bd1f8599-1767617118-1767613518
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=b8f655dc18987e77531ea99e73112ec7b1e21e83-37301d80b9776a22fb81a509ff4a1505-1767617910-1767614310
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
