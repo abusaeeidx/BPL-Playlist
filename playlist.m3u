@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-07 04:09:43 (BD)
+# Last Updated Time : 2026-01-07 04:35:33 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,8 +17,8 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Ivory-Coast-vs-Burkina-Faso_fc-web.jpg" group-title="Live Event", Ivory Coast vs Burkina Faso (Africa Cup of Nations 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138382_english_hls_0ed4026f7a8462_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/TGL_Mini-Match-Card-(1080x810).png" group-title="Live Event", The Bay vs Atlanta vs Florida (TGL Season 2)
+https://bd-mc-fdlive.fancode.com/mumbai/139165_english_hls_b04d47724517739_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
@@ -40,7 +40,7 @@ https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767742936&u=78be6644-0a65-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767742943&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a7a2b597bd4888a6f9b3214e220e8b54
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=29d6986fd004606000a07f4b8920a5c2fa9b26a0-8f98fe0b51da56c24b6a7c3dc79fb38f-1767739102-1767735502
+https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=f063e1aeac680d4df6c33c2614ffd37197370724-5fb7b38dbe66adb2d76b821ddc6d41bf-1767739941-1767736341
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
