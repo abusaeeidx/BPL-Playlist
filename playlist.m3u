@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-07 13:14:44 (BD)
+# Last Updated Time : 2026-01-07 13:38:33 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,28 +17,28 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138742_5800_WF_CS_fc-web_1766641251042.jpg" group-title="Live Event", Central Stags vs Wellington Firebirds (Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138742_english_hls_abe2a9963978817_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138940_5808_DC_NOE_fc-web_1766733054889.jpg" group-title="Live Event", Noakhali Express vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138940_english_hls_a8879097a196658_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=4bAG595xy_uQhG8-em7rVQ&expires=1767774849
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=-VvpkJC-4RJblu8UB7r8oQ&expires=1767777894
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=gq1f0KoUT7rgKmHvwRN-NA&expires=1767774849
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=MJkAX00To-mjcPqoO7x6Tw&expires=1767777894
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=hLlK3lySAkHeNyHYfBYJAA&expires=1767774849
+https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=_Zf-C7JjA9Z4FLr8BjA4qw&expires=1767777894
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767776206&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=82b2c624df2f6bbd400c4114d180427f
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767777722&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d331c22309d3f61dad8aa372f8f81e90
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767776256&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ec18c3356038bd50b82dbabcd7b5b291
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767777774&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cc2ed523bfcd568556ddd8ab364b9adc
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767776264&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e53bbdd0c7cf72875ce7659af78ae02b
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767777781&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a89869ebaa0d8c963d5d4b82e192341b
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8443/roarzone/edge2/tsports/index.m3u8?token=f4c6a763e327ce5a75e9fc175291e3e8efa867d8-326593f1021c3c9d1a42894e6f55d912-1767772772-1767769172
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
