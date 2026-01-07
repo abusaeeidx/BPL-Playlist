@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-08 05:17:33 (BD)
+# Last Updated Time : 2026-01-08 05:33:56 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -17,26 +17,30 @@ https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/bhu
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ae41f5965180707b310360dc5060c09:f78d1ba450f7ff87f215eb472cb4e17e
 https://abm5x5xaaaaaaaamjgudev5k44qb3.otte.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/sq3nwcl4j4/out/v1/41930b7349364099bb1b4ef153032937/cenc-sd.mpd
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v1_1758034980139.jpg" group-title="Live Event", ACT Meteors vs Victoria Women (Women's National Cricket League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/133964_english_hls_c8232439ed41862_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=4896uciU1hJerBkC7YJhoA&expires=1767833111
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=mYVpCq6FzsN4YMOTthrUuA&expires=1767835234
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=Gu-sGqkJ_Bf5CCK0xJtcKA&expires=1767835234
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=JbipcXTti1vkflD3Wu3GgQ&expires=1767833111
+https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=nbrZXXGBFg-MbKMJY5PZpg&expires=1767835235
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767833048&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1943a43f63aa02e919bde8588d7ac6b0
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767834916&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=feffa266f3e2418c41c163e4599f2c80
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767833091&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=cb28ea55a6a78734ada2e0f5dda8e224
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767834954&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=09388b2be214cd6f252a0c41517aa5e4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767833098&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=637d4b8ae479576bab3ab4accddb67da
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767834960&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db1054c6781e41a86b11effc221f9d3d
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
-https://bd-mc-fdlive.fancode.com/mumbai/138941_english_hls_48ed6eee9983049_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
