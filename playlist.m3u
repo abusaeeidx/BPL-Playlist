@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-08 23:30:13 (BD)
+# Last Updated Time : 2026-01-08 23:51:58 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -12,28 +12,28 @@ https://stream2.aryzap.com/v1/0182f8a158d80b8ed5aa6eddaece/018ad63670f01eb401a60
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Hilal-SFC-vs-Al-Hazem_fc-web.jpg" group-title="Live Event", Al Hilal SFC vs Al-Hazem FC (Roshn Saudi League 2025-2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139201_english_hls_2182a66a3147455_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Nassr-FC-vs-Al-Qadsiah-FC_fc-web_1767365352741.jpg" group-title="Live Event", Al-Nassr FC vs Al-Qadsiah FC (Roshn Saudi League 2025-2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139202_english_hls_f49fe0a45242378_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=Er-jBvDLSLda5Zr9Va6qKg&expires=1767897015
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=TScCAyeC3Ym5hPlFHFweYw&expires=1767900385
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=DiGp54xaX5HlxbeXoF1iXA&expires=1767897015
+https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=bbPCSH5Q_Cw0nzinYCTAjw&expires=1767900385
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=AI9SZ7v54GF1xVJ1UwQG3A&expires=1767897016
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=1to8hMxCHLWl681aGo3Vfw&expires=1767900386
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767898499&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d36575a71448c062d2196f00092cb048
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767900152&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c68595688102c443f4fb3e1220072a74
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767898536&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=043b4bebbf805ec9d84c2e77911094ad
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767900200&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=08e3c41996985a57f13541ae94728cc8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767898543&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d2833b85bb1cc428b17ab49bf6d19025
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767900208&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d57f8f37f9dd7164f9e4e4eaac79d740
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
