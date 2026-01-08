@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-08 10:11:25 (BD)
+# Last Updated Time : 2026-01-08 10:50:47 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://tvsen7.aynaott.com/tsportshd/index.m3u8
@@ -22,15 +22,15 @@ https://bd-mc-fdlive.fancode.com/mumbai/138743_english_hls_42aaacddfd23629_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=WxxhHTZx6gE6-EfS0Z0Amg&expires=1767843900
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=3PcKRxz4mCJz2gwo-Q8tWg&expires=1767850730
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=QXa47sxRyEv62O4DvpfDIQ&expires=1767843900
+https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=ephM8a5ZC8bG7Rpd4zEI4Q&expires=1767850730
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=eM0Il2aAGwU_Gw_kbRGsJQ&expires=1767843901
+https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=RAA6LlY9Upmd7QqV9MIPEg&expires=1767850731
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
 https://tvsen6.aynascope.net/asports/index.m3u8?e=1767849178&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=234728f1fc6df32d431ff392f0f5db48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
