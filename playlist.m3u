@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-09 16:57:33 (BD)
+# Last Updated Time : 2026-01-09 17:17:10 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -11,8 +11,8 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg" group-title="Live Event", Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League- 2025-26)
 https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138819_5802_BRB_AFC_fc-web.jpg" group-title="Live Event", Brisbane Roar vs Auckland (A League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138819_english_hls_0e8076fa1729415_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" group-title="Live Event", Pat Rafter Arena - Day 6 vs Rafter Arena- Brisbane (ATP 250 - Brisbane)
+https://bd-mc-fdlive.fancode.com/mumbai/139194_english_hls_2011737c6424099_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
