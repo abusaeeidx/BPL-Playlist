@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-10 01:11:05 (BD)
+# Last Updated Time : 2026-01-10 01:29:41 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -31,6 +31,8 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767984720&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=58c0ef8bc6b705a360eca41c2d668601
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767984728&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9be30b791f85be296f772f6071c00e61
+#EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
+http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://tvsen1.aynaott.com/YNMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
