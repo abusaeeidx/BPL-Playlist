@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-09 10:50:04 (BD)
+# Last Updated Time : 2026-01-09 11:13:52 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -27,13 +27,13 @@ https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=FuYdKDIoN-Qsy9AMoTc3vA
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=UwMbZkIlGy4mPBS9lIPTqQ&expires=1767940797
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767939258&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1d6b75e1a46a51af23f74824af491f40
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767941823&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=8b20632eb0b5827de1e14d7798413ad8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767939303&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d87f2892802bb1c0e803690d6463d007
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767941860&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1fdd3209ef156efac777d92fad6f806d
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767939310&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2126db0d4aa4a57086c9ac7fc7cf394d
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767941866&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=3eabeb6a2d2b9a1bf7f3a0d875ae05b1
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
