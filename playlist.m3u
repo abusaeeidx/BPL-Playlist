@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-09 13:50:47 (BD)
+# Last Updated Time : 2026-01-09 13:57:48 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,28 +9,26 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138944_5808_DBR_CCH_fc-web_1766733054162.jpg" group-title="Live Event", Rajshahi Warriors vs Chattogram Royals (Bangladesh Premier League- 2025-26)
+https://fancode-dlt-adns.airteledge.in/mum-airtel-origin/138944_english_hls_397d6af3aa50746_1ta-di_h264/index.m3u8
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP_Brisbane__FC-Web.jpg" group-title="Live Event", Show Court 1 - Day 6 vs Show Court 1- Brisbane (ATP 250 - Brisbane)
 https://bd-mc-fdlive.fancode.com/mumbai/139195_english_hls_7bfdfb96f343630_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=ZkgLh2jQWXTPY1utkpjrHA&expires=1767950709
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=K_8KOPv5tSJkEBhkQ56pyg&expires=1767951938
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=O222x0-GqB5V7bSs8sUjRg&expires=1767950709
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=ycdKUEfA65ceyLmXyfr6qw&expires=1767950709
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=ufS7-IAvQqO5u3XDTApvPw&expires=1767951938
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767950572&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2f2aa8ce5a4f226f06190eabbaae68b7
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1767951903&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=087de57ae634a522917fad4d5767f4dc
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767950621&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=26ab9d44e923c897ab02ad1cfd37c64d
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767951950&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9a680b84f2115f549235ea36bc67f7b7
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767950629&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=db44b5d7f8d45abaa8ffe69521d823eb
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767951957&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4a28d83197f0a0982f8f7e32482efd35
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
