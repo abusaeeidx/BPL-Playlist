@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-10 23:10:08 (BD)
+# Last Updated Time : 2026-01-10 23:30:34 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -24,13 +24,13 @@ https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=nfG0D_Axd_gOuMWpdLJcAQ
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=ipWfu-gZTGqYXr8-HCtnPg&expires=1768070865
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1767984674&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bc66cc0e409eadefc62c546123028df6
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768071115&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b3ef8fcadc3f681518aa05b4a313c792
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1767984720&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=58c0ef8bc6b705a360eca41c2d668601
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768071161&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=4d22b883c0c4ed6ad26aa1c97f5e91e8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1767984728&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9be30b791f85be296f772f6071c00e61
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768071168&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=94554c8897a859129c2553b73b5f2145
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="FAST SPORTS" group-title="Unknown",FAST SPORTS
