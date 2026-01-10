@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-11 05:41:37 (BD)
+# Last Updated Time : 2026-01-11 05:49:31 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -14,11 +14,7 @@ https://bd-mc-fdlive.fancode.com/mumbai/138778_english_hls_3ef96e9a261392_1ta-di
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=j51v7c_ybK4UK3Cev3hIOA&expires=1768094358
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=qOFbDumZOxYSLTQihWezig&expires=1768094358
+https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=FlTxyXS5XKzihvwdEYLqfQ&expires=1768095617
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
 https://tvsen6.aynascope.net/asports/index.m3u8?e=1768071115&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b3ef8fcadc3f681518aa05b4a313c792
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
