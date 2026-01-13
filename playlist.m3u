@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-14 05:41:36 (BD)
+# Last Updated Time : 2026-01-14 05:50:22 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,20 +9,20 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-T20-Blaze_fc-web.jpg" group-title="Live Event", Trinidad and Tobago Women vs Barbados Women (CWI T20 Blaze 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139747_english_hls_96592331e222434_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138749_5800_AA_CTB_fc-web_1766641251656.jpg" group-title="Live Event", Canterbury vs Auckland Aces (Super Smash- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138749_english_hls_48464bcb1d93181_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=AKJ_3v52cKuAWRf6EQM66Q&expires=1768353571
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=blOJ_CLYerZTHtXTxphLxg&expires=1768354820
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=ORsm_hfRJgJg8WAfRpJamA&expires=1768353571
+https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=28qqsQXbksTpgh6sxDBQ8A&expires=1768354820
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=UK7j6tmuAWJf8HAwTq98NQ&expires=1768353572
+https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=UQOasFXxFZRMmCo-W7gkfQ&expires=1768354821
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768349544&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f0a7e620e6fc0ace3c3cf3b66d850a77
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
