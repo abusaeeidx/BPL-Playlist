@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-13 23:03:10 (BD)
+# Last Updated Time : 2026-01-13 23:35:38 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -35,10 +35,10 @@ https://spstr.abntv.live/hls/psstream.m3u8
 https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=1e8095b3d5c6e47048167a9e79eeb29268afcaf6-742f57f1909772acbdb84f7f1c3f8ed6-1768326107-1768322507
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
-#EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
-http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
 https://bongoflixbd.top/tsports.m3u8?user=bongoflix&pass=eaminvai
+#EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
+http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 http://116.204.149.16/t_sports/index.m3u
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
