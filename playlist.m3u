@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-15 01:59:31 (BD)
+# Last Updated Time : 2026-01-15 02:24:32 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,8 +9,8 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Al-Ahli-Saudi-vs-Al-Taawoun_Web.jpg" group-title="Live Event", Al-Ahli Saudi FC vs Al Taawoun (Roshn Saudi League 2025-2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139359_english_hls_7a1b5dc1bf4570_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Nigeria-vs-Morocco_fc-web.jpg" group-title="Live Event", Nigeria vs Morocco (Africa Cup of Nations 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138392_english_hls_a56d8afe5952257_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
