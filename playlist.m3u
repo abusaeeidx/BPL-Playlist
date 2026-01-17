@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-18 00:27:28 (BD)
+# Last Updated Time : 2026-01-18 00:49:47 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,26 +9,22 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Egypt-VS-Image-Nigeria_fc-web.jpg" group-title="Live Event", Egypt vs Nigeria (Africa Cup of Nations 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138393_english_hls_4c136f576486621_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131021_5427_OSN_RO_fc-Web.png" group-title="Live Event", CA Osasuna vs Real Oviedo (LALIGA 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/131021_english_hls_479ffec92283604_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=O6ejMOWr_cxO33d6ZsI0CQ&expires=1768678818
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=LsNcbN9vUceKIRVnFgNVDA&expires=1768681700
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=m_zuoOTVjO7-D8GuBgX22g&expires=1768681700
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=PiKw_o45aN3ehLU197wqHg&expires=1768678819
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768673527&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=41ba2633a4b61f2a5fc3af6cb5d95d98
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1768673529&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=192111c5f0c5f9831dd49aa68aa54da8
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768673548&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=90e4024ef20f21c9c905b516d2e14b67
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
-https://spstr.abntv.live/hls/psstream.m3u8
+https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=DmARyvXrG-t5orWlNK9E-A&expires=1768681700
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=cd327179d0ad012c2392bfecd4ec5d4e61028f36-51389c13635c8df45392d0c2fd4e4087-1768675463-1768671863
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=30707b357f341f5a1ecf974d7daef8d6f67b960c-57ca86bc0e1b1cad47efef5e5f836dc3-1768676250-1768672650
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="BPL 2026" group-title="BPL 2026",BPL 2026
