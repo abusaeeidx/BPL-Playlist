@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-17 12:27:49 (BD)
+# Last Updated Time : 2026-01-17 12:52:20 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,22 +9,30 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://images.fancode.com/aig/match/v1/139386_CASACARDS_APP.png" group-title="Live Event", Western Sydney Wanderers vs Newcastle Jets (A League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139386_english_hls_3aa57718067931_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138928_5808_RAN_DC_fc-web_1766733054101.jpg" group-title="Live Event", Rangpur Riders vs Dhaka Capitals (Bangladesh Premier League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138928_english_hls_726154e96f59456_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=pTqsAFFCbmq1c6b-Z3FMKA&expires=1768635824
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=GoY09oCreP0rOjxLGDRizA&expires=1768638646
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=TZ5cLz2rs-ikILrWHKTGhw&expires=1768635824
+https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=vmzpiC30QAo5aoB3-0jp8Q&expires=1768638646
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/asportshd.m3u8?md5=EaVVeiCVkt3SZXp8jp9K4A&expires=1768635825
+https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=oKu0Udf725v1_-ym3EcMSw&expires=1768638646
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768637806&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d6889ae83eb6bceda52d46ed8995f607
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768637808&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2ca7420182d65814c86624a930cf2274
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768637826&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=28c641d5d75ec26ea46a696a50da4abd
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=2e3b2a2d49ca8c9b497301dc8a6c147bf3a49989-254b3d48ed0e8efa050dccbfb1b94a44-1768632711-1768629111
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=379195211c8c3870ead77b726e826cbce6f9f9c5-722fa3454fa9d9495456433a83c8d707-1768635216-1768631616
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
