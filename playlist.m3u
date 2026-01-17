@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-17 13:24:40 (BD)
+# Last Updated Time : 2026-01-17 13:36:46 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -14,15 +14,11 @@ https://bd-mc-fdlive.fancode.com/mumbai/138928_english_hls_726154e96f59456_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=GoY09oCreP0rOjxLGDRizA&expires=1768638646
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=vY3TeLWk9-N1WmrvNqXPRQ&expires=1768641545
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=vmzpiC30QAo5aoB3-0jp8Q&expires=1768638646
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=oKu0Udf725v1_-ym3EcMSw&expires=1768638646
+https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=hB921QnwGXKnXXt32jQiPA&expires=1768641546
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768637806&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d6889ae83eb6bceda52d46ed8995f607
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
