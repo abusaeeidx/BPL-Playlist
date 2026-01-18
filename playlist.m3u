@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-18 12:35:03 (BD)
+# Last Updated Time : 2026-01-18 12:55:57 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -14,21 +14,25 @@ https://bd-mc-fdlive.fancode.com/mumbai/138752_english_hls_503be3c87843023_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=bHXYWaDsegBHGf0r611vIg&expires=1768722356
+https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=JEfJHw9kiPl2nZWbmj6-jg&expires=1768725102
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=znpa2QKRONXwqI07pP8lXg&expires=1768722356
+https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=0nUQDWTSRzD9D0GGDFwwqw&expires=1768725102
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=Pb0gPP4MKss4GE9HUyNeQA&expires=1768725103
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768718049&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=83cc17f8d5fa114053a1b669abd52393
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768724207&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9dfc6f313e8df71239b1b5c8ff5d5b2a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1768718051&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=de675f4f3d26593d6e64d71a705cf56b
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768724209&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=e7f2dbc059614c570aa9fb228da80c0a
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768718071&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0fd1412cb342e057b24a79fb64a42ab0
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768724226&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=dc1443e99af0eeb7bd35215047dbcef6
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=7f08f48f4e08a3376b10a0857db117f6fd1f07ee-17cf9910bc2a78d781e97127f7bb69a8-1768719311-1768715711
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=cf1fc1989b0f5a9e345f3c9069e724e1175454f4-1a8dd8bbeb81bc9a786fd22ebbabe75f-1768722105-1768718505
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
