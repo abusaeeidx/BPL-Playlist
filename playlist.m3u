@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-19 01:36:25 (BD)
+# Last Updated Time : 2026-01-19 01:43:36 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,16 +9,20 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131027_5427_CEV_RVL_fc-Web.png" group-title="Live Event", RC Celta vs Rayo Vallecano (LALIGA 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/131027_english_hls_5a163009828274_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Senegal-vs-Morocco_fc-web.jpg" group-title="Live Event", Senegal vs Morocco (Africa Cup of Nations 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138394_english_hls_be4201c9ee18463_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=KwPYm0wNpZaA6-FpMCdgMQ&expires=1768770930
+https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=NhLbU61pQCMb0tMnb-7heQ&expires=1768772242
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=4MZGaQgsgz1-Q31Myl2GWg&expires=1768770930
+https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=gkgYE8fxoesK9clGQlCHyQ&expires=1768772242
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=-owoqwX9qZKA1MgeEz9FNA&expires=1768772242
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768767305&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bf675e01f93d8ddd1223bd629489fd2c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
@@ -28,7 +32,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768767329&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=c6ecef0b83f69ef721b6f7db055e71a0232f796d-49cf4e48957209f3fef02ab217cc500a-1768766235-1768762635
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=b84c14a8e3afccafc973994f309a56e2ac7d5c70-391e683e18765a42a8a0eb05af3a1655-1768768679-1768765079
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
