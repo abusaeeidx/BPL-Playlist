@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-19 10:35:56 (BD)
+# Last Updated Time : 2026-01-19 11:07:57 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,18 +9,30 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sony-Open-In-Hawaii-web_opt2.jpg" group-title="Live Event", World Feed - Day 4 vs Hawaii (Sony Open in Hawaii 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139775_english_hls_e394763d2759956_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138753_5800_WF_CTB_fc-web_1766641251108.jpg" group-title="Live Event", Wellington Firebirds vs Canterbury (Super Smash- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/138753_english_hls_b5681ff2ba26099_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=4VqWKWd9vGbQ4Kp89TrJhA&expires=1768801816
+https://d10.merichunidya.com:1686/hls/willowusa.m3u8?md5=PlUObrbqt8p4MRv78_7r_Q&expires=1768805511
+#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
+#EXTVLCOPT:http-referrer=https://profamouslife.com/
+#EXTVLCOPT:http-origin=https://profamouslife.com
+https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=RZHtUe8colxVxgoApQKXVg&expires=1768805511
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=q64oKBozxwdEyaiN56r1vw&expires=1768801816
+https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=pQVB5_uRUDpOHyhPRcFqIg&expires=1768805511
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768805228&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=150f7330f4dafe55ea60773ce1a50c48
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768805230&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=92640f7417e5f683bc773653b4337e4b
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768805252&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=bbb31f5dd6c4fe090f99511ccdbfb7f4
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=d5ec3d84ef767cc861e44b2516085640e1514c49-7bccb5481ec7d5bd2aea0b679616997b-1768795752-1768792152
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=4dafa6c84c84e858a907fc4926e567f77cae94c4-076f66828be18c225ea02f25fac45f51-1768800583-1768796983
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
