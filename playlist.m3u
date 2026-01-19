@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-19 13:18:29 (BD)
+# Last Updated Time : 2026-01-19 13:44:50 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -32,7 +32,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768811022&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=251e57f990665dd9b1f7325a1c6923f11dec0d54-3eba9e4b9da29e19fe3417a040c9f418-1768807346-1768803746
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=14fe6b27ea01289d4f7e189c23164da6765a06cf-842254d69957ddd0819dcafec61f25f3-1768809714-1768806114
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
