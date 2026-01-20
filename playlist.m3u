@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-20 17:58:02 (BD)
+# Last Updated Time : 2026-01-20 18:46:23 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -20,11 +20,11 @@ https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=TOWKFTx58tguVPLIgWhNjA&e
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=SuZzQ3b3nL7xqrOjPK057A&expires=1768916695
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768911426&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=37e078ad7bd681fa391be6cdd3749fff
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1768919039&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=64e5db7a64c0f83138e988532f497205
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1768911427&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0d3888ca721e870b48ec9cdfb28b214e
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1768919041&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d89312941be24f23c43f5216e0175601
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768911445&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ae88556090b36313e9ea5558d6bf9dc6
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1768919062&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=1b9a3fb7ea85000da7c3430ac954a7d4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
