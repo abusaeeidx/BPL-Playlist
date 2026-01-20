@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-20 09:49:49 (BD)
+# Last Updated Time : 2026-01-20 10:34:57 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,20 +9,20 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/138786_5801_NB-W_CH-W_fc-web_1766596522273.jpg" group-title="Live Event", Northern Brave Women vs Central Hinds (Women's Super Smash- 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/138786_english_hls_720891e92c62599_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Women's-National-Cricket-League_old_v3_1758034980120.jpg" group-title="Live Event", ACT Meteors vs New South Wales Breakers (Women's National Cricket League- 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/133969_english_hls_4e8f78f0ec36340_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=JOdy64tEmjL4zzmrtJ3YDw&expires=1768880745
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=QPXlYLzPM8oNvGLe4zNxOg&expires=1768887813
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=Xqfj6OM3ZscTSCNkj9Sp3A&expires=1768880745
+https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=BPSFfLcTMirthrfRh4_mzg&expires=1768887813
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=UR1I54TzAOm8W_lVGU4jWg&expires=1768880746
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=QEY9XpZRHjbNjxyYGtPfNg&expires=1768887813
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
 https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=aa25fde5cdc094a0dfb228ddc3b6c77cd5f3bcd1-ecfe3f991eefb44ec529c532525d3d5e-1768878257-1768874657
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
