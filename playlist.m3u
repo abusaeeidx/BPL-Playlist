@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-21 11:48:05 (BD)
+# Last Updated Time : 2026-01-21 11:59:36 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -14,17 +14,17 @@ https://bd-mc-fdlive.fancode.com/mumbai/138755_english_hls_adb0988ebc852_1ta-di_
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=_0KIjuI5hgQWa-KU_tglvw&expires=1768977819
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=YnHwU0ZB-eq1JJ0qZAI5qQ&expires=1768980511
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=2CTbYBmMwBHkz5Z1NNKCXQ&expires=1768977819
+https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=nNxmnu34ukAHDPp4iIreXA&expires=1768980511
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=nrtUYNGmogW1FY9pwgdl1Q&expires=1768977820
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=5YVEJbtEZJg7PYMS8yOAqQ&expires=1768980511
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=e25660aff2515d2750c72dc600194fc30495e647-80d32a4a224473695823526b65869700-1768975039-1768971439
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=8d011ef9188cdac201e8982b5fb3c1172597b207-c4429f4059e834fd7d62f7d1f6f77dda-1768977452-1768973852
 #EXTINF:-1 tvg-name="Willow Sports" group-title="Cricket",Willow Sports
 http://xxip9.top:8080/live/7656691303/chrisbolden765%40icloud.com/58847.m3u8
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket",https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png
