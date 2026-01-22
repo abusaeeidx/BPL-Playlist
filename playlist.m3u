@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-22 23:15:58 (BD)
+# Last Updated Time : 2026-01-22 23:46:33 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,8 +9,6 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png" group-title="Live Event", Sri Lanka vs England (England tour of Sri Lanka- 2026)
-https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769114889~acl=/*~id=28842396058789651966316174671223~hmac=dfe594bc35665338e68f728a87925763a39344a38d2c45d58142d23080a4d548
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG-vs-WI_web.jpg" group-title="Live Event", West Indies vs Afghanistan (Afghanistan vs West Indies 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139300_english_hls_c3d854406723813_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
