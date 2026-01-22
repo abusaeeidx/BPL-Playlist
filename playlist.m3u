@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-23 02:16:54 (BD)
+# Last Updated Time : 2026-01-23 02:44:25 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -14,17 +14,17 @@ https://bd-mc-fdlive.fancode.com/mumbai/139993_english_hls_fcf41e1d4c51216_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=9F3LL_bwN7mIPylnYh8IKw&expires=1769118292
+https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=pwVDQEojzBNFICPCEtRuBQ&expires=1769120877
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d5.merichunidya.com:1686/hls/willowextra.m3u8?md5=B_bkORDfr9696YP8gAo3lA&expires=1769118292
+https://d6.merichunidya.com:1686/hls/willowextra.m3u8?md5=sAkxwbqJiJ1r7juM8Uzsrg&expires=1769120878
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=FWAgzY74N6XkLLAoo0R_Vw&expires=1769118292
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=piPPg9sO_W9ZwudXok0zcg&expires=1769120878
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=ca73842c30bbbc843a488f08b5877653dd99d624-f7ceaf64ac30354c0a6f56e8941340d9-1769114979-1769111379
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=b4b34e29a3bc7fd19068dcdd1b6fb4b69af48951-4b21e204439b966e930b7a3819488032-1769116945-1769113345
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket",https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
