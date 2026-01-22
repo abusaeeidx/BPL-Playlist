@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-23 01:02:00 (BD)
+# Last Updated Time : 2026-01-23 01:31:57 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -24,11 +24,11 @@ https://d9.merichunidya.com:1686/hls/willowextra.m3u8?md5=yoJMyYnl5wjse4o4EaeLcw
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d6.merichunidya.com:1686/hls/asportshd.m3u8?md5=ovb6JJCbavJ4bLzPRkk_iQ&expires=1769114070
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=a24ac61ec0381f84c1d9d5048d7e2a5e2ad214b7-67dcc5bca7e0f63e80af6329054620ff-1769109834-1769106234
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=23b8d9bc40e7b6221c34ba5517ec9474f54c94c5-496e01e7aa9f3abf35102914daff8092-1769111927-1769108327
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket",https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png
 http://116.204.149.16/nagorik/index.m3u8
-#EXTINF:-1 tvg-name="FAST SPORTS" group-title="Unknown",FAST SPORTS
-http://163.61.227.29:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-name="A SPORTS" group-title="Unknown",A SPORTS
+http://163.61.227.29:8000/play/a03t/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
 https://satoshi-cors.herokuapp.com/http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
