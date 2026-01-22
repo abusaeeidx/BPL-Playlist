@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-22 14:53:10 (BD)
+# Last Updated Time : 2026-01-22 15:20:16 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,20 +9,22 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png" group-title="Live Event", Sri Lanka vs England (England tour of Sri Lanka- 2026)
+https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769114889~acl=/*~id=28842396058789651966316174671223~hmac=dfe594bc35665338e68f728a87925763a39344a38d2c45d58142d23080a4d548
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Giles_Shield_FC-Web.jpg" group-title="Live Event", Dyandeep Seva Mandal vs Swami Vivekanand (Giles Shield 2026)
 https://bd-mc-fdlive.fancode.com/mumbai/139668_english_hls_6b8ac7946995062_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=UtM6UB8YIMNPxptGiIdyuQ&expires=1769075373
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=OvmvV5fmihJYlEFderE6Nw&expires=1769077958
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=cX2ycXvv6GF0KYjRziHSqA&expires=1769075373
+https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=OXUkAvYFE2Eth-5CQOaPBw&expires=1769077958
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=zmiwNMzBG-NlmQSYnGP-0w&expires=1769075374
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=0EI_RC-7cxgPc9YPj1SjFQ&expires=1769077959
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769077072&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b1278853b44c5a529703cb4640eb30e0
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
@@ -32,7 +34,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1769077096&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=47e3f32063bcbbd5ea3b72b06f579b6b24ba384e-daf52eaf78478e5393b7533d53d398b3-1769072195-1769068595
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=3c6cd8dd1beca351d33b65d9ed17537b8bdac64d-55392461e97b5511b63ec2fa113b2756-1769075160-1769071560
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket",https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
