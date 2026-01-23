@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-23 22:52:31 (BD)
+# Last Updated Time : 2026-01-23 23:15:51 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -24,7 +24,7 @@ https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=tCIeJscQySJO0QEkmlXI3A
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d2.merichunidya.com:1686/hls/asportshd.m3u8?md5=D57j6anXKHriJRhv-rnj_Q&expires=1769193011
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=1b139960443a3f043968166bfce20634fb73e8f2-ef69e40c32d35c16644edd82c457b69d-1769187412-1769183812
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=28ea0db71c0563f186ab5aab105ea232263ec6dd-eed6249d67ee635639883dc2d7833d41-1769190180-1769186580
 #EXTINF:-1 tvg-name="https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png" group-title="Cricket",https://i.ibb.co.com/Cp5PcBR3/BPL-Logo.png
 http://116.204.149.16/nagorik/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
