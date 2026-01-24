@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-24 17:19:42 (BD)
+# Last Updated Time : 2026-01-24 17:32:10 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -16,15 +16,15 @@ https://bd-mc-fdlive.fancode.com/mumbai/139393_english_hls_83cbf743ac70142_1ta-d
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=M57ZPu1A8G2W913oI5xbhA&expires=1769258703
+https://d6.merichunidya.com:1686/hls/willowusa.m3u8?md5=JSe8AFdvwW-_DVaC3G3RKw&expires=1769260665
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=hYvdThTqvMO0KajrKqP9_Q&expires=1769258703
+https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=Evbo6-ptEzPoW6tr0K4qGQ&expires=1769260665
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/asportshd.m3u8?md5=auZn7AatZ_k_fMdzJuVZ6A&expires=1769258703
+https://d7.merichunidya.com:1686/hls/asportshd.m3u8?md5=6SfCRWNAqWCHxpt2_oqLig&expires=1769260666
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769256689&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=9e80a03d9060bb3562cc65f3cd96cf4c
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
