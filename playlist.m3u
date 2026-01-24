@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-24 21:44:50 (BD)
+# Last Updated Time : 2026-01-24 21:51:59 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -11,20 +11,16 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(3).png" group-title="Live Event", Sri Lanka vs England (England tour of Sri Lanka- 2026)
 https://sonypartnersdaimenew.akamaized.net/hls/live/2018457/DAI35ME-ENGVSSL/master.m3u8?hdnea=exp=1769288240~acl=/*~id=08061403913493590467245591424074~hmac=0312875eef7e48aef64c0406466e42edbe02afc571420ba7aeae3b40b52a20fa
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139330_5826_CHE-W_ARS-W_FC-Web_1768309283524.jpg" group-title="Live Event", Chelsea F.C. Women vs Arsenal Women (Women's Super League 2025-26)
-https://bd-mc-fdlive.fancode.com/mumbai/139330_english_hls_be868a26b334916_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/139343_5489_HUL_SWA_FC-Web.jpg" group-title="Live Event", Hull City vs Swansea City A.F.C. (EFL Championship 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/139343_english_hls_52cbbff8d530114_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=cKvjj_H4FIb8ifdvDJk4UQ&expires=1769275195
+https://d8.merichunidya.com:1686/hls/willowusa.m3u8?md5=piV2Xc6HN6dPG1J3zpNOYQ&expires=1769276466
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=hDHfNMSywg_op113Uiphkw&expires=1769275195
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/asportshd.m3u8?md5=cYsqAGrjEyglozRcsPpLBg&expires=1769275195
+https://d10.merichunidya.com:1686/hls/willowextra.m3u8?md5=LHKTd1227rzU79nvz7jtiA&expires=1769276466
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769271032&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a9cec7f70bfb874e40dc68dddd17d2b6
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
