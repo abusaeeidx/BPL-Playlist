@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-27 05:34:33 (BD)
+# Last Updated Time : 2026-01-27 05:48:33 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -12,17 +12,13 @@ https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d9.merichunidya.com:1686/hls/willowusa.m3u8?md5=gasXbFPv9jzYEAeog8daAA&expires=1769474870
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=FHYGfemBwG1iqR_Qo6ieHw&expires=1769476919
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d8.merichunidya.com:1686/hls/willowextra.m3u8?md5=R74pSrX-uFWfXYQPz6uWjg&expires=1769474870
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=K3Nbbpgf2uEO_KHtx5ScIw&expires=1769474870
+https://d3.merichunidya.com:1686/hls/willowextra.m3u8?md5=Q5Ga5Zc_hYhQImnkm31Clg&expires=1769476920
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=987634dba17d1e10d287e631319c3844a583ef0c-c2df999f7b70b161b5b540e55681c5f9-1769469962-1769466362
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=bd63a639f681a9c24eef06fcde050b1a9edb7e91-b7cc9f6ad53fdfcea9428204c2840415-1769473074-1769469474
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
 http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
