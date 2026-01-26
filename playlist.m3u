@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-26 12:00:38 (BD)
+# Last Updated Time : 2026-01-26 12:46:30 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -19,16 +19,8 @@ https://d7.merichunidya.com:1686/hls/willowusa.m3u8?md5=ctalcvC1ZowR_vJeV7aC9A&e
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
 https://d1.merichunidya.com:1686/hls/willowextra.m3u8?md5=CJkij2Kk-qu7dU6WQ56j1g&expires=1769413095
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769410043&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0fc4fc7785abc42a879152997e7a1dd6
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1769410045&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6ad6d323e1c88734a5fbac929d0d9720
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1769410062&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7e11e5da21bbbd0f3b434f5c5b13edc6
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
-https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=19aa99044e6072d341aff4d390f484602365e9b1-a092ee8ae1f6b08f37ed1c4f53805652-1769409969-1769406369
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=ade802a74c91406dc8139077527f454c9d30a9eb-5fcf688efac995567bda80b9ad3b290f-1769411953-1769408353
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
 http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
