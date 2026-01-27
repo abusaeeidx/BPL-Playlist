@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-28 01:41:43 (BD)
+# Last Updated Time : 2026-01-28 01:55:03 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,20 +9,20 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Live Event", Guyana Women vs Jamaica Women (CG United Women's Super 50 Cup 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139765_english_hls_6845cebf6d43884_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Live Event", Trinidad and Tobago Women vs Windward Islands Women (CG United Women's Super 50 Cup 2026)
+https://bd-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowusa.m3u8?md5=XzXQ6mejYaNUNo1BNbvIkg&expires=1769546336
+https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=XFmpd4lWGjUOd8nci0bOlQ&expires=1769549184
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=_xMoV3bemKjXNnz7exPU7w&expires=1769546337
+https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=yFv4_1MzK_NMe15L-zducg&expires=1769549184
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d1.merichunidya.com:1686/hls/asportshd.m3u8?md5=5tFRCJEtbEVxCFQouZcgMw&expires=1769546337
+https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=5Qj11Zj2K4G-CB-iBpG3tQ&expires=1769549184
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
 https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769545370&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f95ea211902c4317b4cc4f3053217b89
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
