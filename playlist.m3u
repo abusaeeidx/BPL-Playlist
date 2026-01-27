@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-27 13:02:45 (BD)
+# Last Updated Time : 2026-01-27 13:36:16 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -32,7 +32,7 @@ https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1769502048&u=78be6644-0a65-48
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
-https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=4ac4fc7882ecfb623094eeb01bdd8091c9da162d-636d415822abc8e0c1758c651edc391d-1769496825-1769493225
+https://edge2.roarzone.info:8444/roarzone/edge2/tsports/index.m3u8?token=c4968c93f3fe99b6ee2322e9d1b4cd8c7e63be3e-b8eb9cef1f94c489c5022c275208cc3e-1769500076-1769496476
 #EXTINF:-1 tvg-name="NagorikTV" group-title="Bangladesh",NagorikTV
 http://116.204.149.16/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjK5ckgYt3Tg-a_SQ5fBnzvYz1M9gHK-2aMMOP7IiwetePVmEnCj8Iw8g&s=10"group-title="BPL 2026",BPL 2026
