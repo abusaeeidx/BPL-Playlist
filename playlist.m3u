@@ -1,5 +1,5 @@
 #EXTM3U
-# Last Updated Time : 2026-01-28 02:14:09 (BD)
+# Last Updated Time : 2026-01-28 02:38:00 (BD)
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://mrgifytv.pages.dev/bpl/tsports/index.m3u8
@@ -9,26 +9,22 @@ https://mrgifytv.pages.dev/bpl/asports/index.m3u8
 
 #EXTINF:-1 tvg-id="TSports.id" tvg-name="T Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNoRTQBtjGlMCjMXhwKV3COXy4njZjxwq9SUqdJ1LjLQ&s" group-title="BPL",T Sports
 https://live20.bozztv.com/giatv/giatv-tsports/tsports/chunks.m3u8
-#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/CWI-Women's-Super-50-Cup-2026_Old_match-card_2025_FC-WEB_1-(1).jpg" group-title="Live Event", Trinidad and Tobago Women vs Windward Islands Women (CG United Women's Super 50 Cup 2026)
-https://bd-mc-fdlive.fancode.com/mumbai/139763_english_hls_325ca8f34621196_1ta-di_h264/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810).png" group-title="Live Event", Doncaster Rovers F.C. vs Leyton Orient (League One 2025-26)
+https://bd-mc-fdlive.fancode.com/mumbai/140015_english_hls_14e071e3b844882_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/38-by-xfireflix.png" group-title="Sports",Willow HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d3.merichunidya.com:1686/hls/willowusa.m3u8?md5=XFmpd4lWGjUOd8nci0bOlQ&expires=1769549184
-#EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/8-by-xfireflix.png" group-title="Sports",Willow HD 2
-#EXTVLCOPT:http-referrer=https://profamouslife.com/
-#EXTVLCOPT:http-origin=https://profamouslife.com
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=yFv4_1MzK_NMe15L-zducg&expires=1769549184
+https://d2.merichunidya.com:1686/hls/willowusa.m3u8?md5=9xTQVxp3jt5vhGNzuVwO2w&expires=1769552638
 #EXTINF:-1 tvg-logo="https://abusaeeidx.github.io/Tv-Channel-Logo/CricHD/runded/12-by-xfireflix.png" group-title="Sports",A Sports HD
 #EXTVLCOPT:http-referrer=https://profamouslife.com/
 #EXTVLCOPT:http-origin=https://profamouslife.com
-https://d10.merichunidya.com:1686/hls/asportshd.m3u8?md5=5Qj11Zj2K4G-CB-iBpG3tQ&expires=1769549184
+https://d5.merichunidya.com:1686/hls/asportshd.m3u8?md5=MkcOXIyr_8x1CCFgkecMHQ&expires=1769552698
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/dbc585f70a60b9855b6e13a8ce4cb6f4" group-title="Sports",T Sports HD
-https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769545370&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=f95ea211902c4317b4cc4f3053217b89
+https://tvsen7.aynascope.net/tsports-hd/index.m3u8?e=1769552009&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d42b09e680e185e1b2c3a610deff43e4
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/64de30d2df9b2a888cb73f17614a9a8b" group-title="Sports",A sports
-https://tvsen6.aynascope.net/asports/index.m3u8?e=1769545372&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d6c945bb341ea87555cb74a1a455e408
+https://tvsen6.aynascope.net/asports/index.m3u8?e=1769552012&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=d0806ba18629a26520df101b27f6ea0f
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/94a778ec3219f7eb54bdf1ee07a95788" group-title="Sports",Willow HD TV
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1769545392&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=0292c79c84f48e5158201be63666ff47
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1769552034&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=07d1cbed9abe7610803f2852012db692
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3f1f920559925d7504151bceb69c3d19" group-title="Sports",Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports
